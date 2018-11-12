@@ -1,0 +1,6 @@
+/Users/macbook/Projects/Spoj_PRIME_T/Spoj_PRIME_T/obj/x86/Debug/Spoj_PRIME_T.csprojAssemblyReference.cache
+/Users/macbook/Projects/Spoj_PRIME_T/Spoj_PRIME_T/obj/x86/Debug/Spoj_PRIME_T.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/Spoj_PRIME_T/Spoj_PRIME_T/bin/Debug/Spoj_PRIME_T.exe
+/Users/macbook/Projects/Spoj_PRIME_T/Spoj_PRIME_T/bin/Debug/Spoj_PRIME_T.pdb
+/Users/macbook/Projects/Spoj_PRIME_T/Spoj_PRIME_T/obj/x86/Debug/Spoj_PRIME_T.exe
+/Users/macbook/Projects/Spoj_PRIME_T/Spoj_PRIME_T/obj/x86/Debug/Spoj_PRIME_T.pdb

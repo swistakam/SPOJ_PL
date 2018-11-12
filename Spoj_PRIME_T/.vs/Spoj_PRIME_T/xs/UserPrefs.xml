@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{8B980819-2C16-4377-9653-937AA1234343}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Spoj_PRIME_T/Program.cs">
+    <Files>
+      <File FileName="Spoj_PRIME_T/primeClass.cs" Line="9" Column="10" />
+      <File FileName="Spoj_PRIME_T/Program.cs" Line="25" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Spoj__PRIME__T PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

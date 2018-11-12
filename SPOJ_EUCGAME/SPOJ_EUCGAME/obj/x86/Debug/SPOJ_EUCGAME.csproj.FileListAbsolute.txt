@@ -1,0 +1,6 @@
+/Users/macbook/Projects/SPOJ_EUCGAME/SPOJ_EUCGAME/bin/Debug/SPOJ_EUCGAME.exe
+/Users/macbook/Projects/SPOJ_EUCGAME/SPOJ_EUCGAME/bin/Debug/SPOJ_EUCGAME.pdb
+/Users/macbook/Projects/SPOJ_EUCGAME/SPOJ_EUCGAME/obj/x86/Debug/SPOJ_EUCGAME.csprojAssemblyReference.cache
+/Users/macbook/Projects/SPOJ_EUCGAME/SPOJ_EUCGAME/obj/x86/Debug/SPOJ_EUCGAME.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/SPOJ_EUCGAME/SPOJ_EUCGAME/obj/x86/Debug/SPOJ_EUCGAME.exe
+/Users/macbook/Projects/SPOJ_EUCGAME/SPOJ_EUCGAME/obj/x86/Debug/SPOJ_EUCGAME.pdb

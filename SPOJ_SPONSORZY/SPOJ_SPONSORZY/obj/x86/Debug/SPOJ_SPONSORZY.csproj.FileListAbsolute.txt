@@ -1,0 +1,6 @@
+/Users/macbook/Projects/SPOJ_SPONSORZY/SPOJ_SPONSORZY/bin/Debug/SPOJ_SPONSORZY.exe
+/Users/macbook/Projects/SPOJ_SPONSORZY/SPOJ_SPONSORZY/bin/Debug/SPOJ_SPONSORZY.pdb
+/Users/macbook/Projects/SPOJ_SPONSORZY/SPOJ_SPONSORZY/obj/x86/Debug/SPOJ_SPONSORZY.csprojAssemblyReference.cache
+/Users/macbook/Projects/SPOJ_SPONSORZY/SPOJ_SPONSORZY/obj/x86/Debug/SPOJ_SPONSORZY.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/SPOJ_SPONSORZY/SPOJ_SPONSORZY/obj/x86/Debug/SPOJ_SPONSORZY.exe
+/Users/macbook/Projects/SPOJ_SPONSORZY/SPOJ_SPONSORZY/obj/x86/Debug/SPOJ_SPONSORZY.pdb

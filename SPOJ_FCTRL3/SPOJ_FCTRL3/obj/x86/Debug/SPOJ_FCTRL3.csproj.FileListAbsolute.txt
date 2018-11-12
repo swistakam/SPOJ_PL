@@ -1,0 +1,6 @@
+/Users/macbook/Projects/SPOJ_FCTRL3/SPOJ_FCTRL3/bin/Debug/SPOJ_FCTRL3.exe
+/Users/macbook/Projects/SPOJ_FCTRL3/SPOJ_FCTRL3/bin/Debug/SPOJ_FCTRL3.pdb
+/Users/macbook/Projects/SPOJ_FCTRL3/SPOJ_FCTRL3/obj/x86/Debug/SPOJ_FCTRL3.csprojAssemblyReference.cache
+/Users/macbook/Projects/SPOJ_FCTRL3/SPOJ_FCTRL3/obj/x86/Debug/SPOJ_FCTRL3.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/SPOJ_FCTRL3/SPOJ_FCTRL3/obj/x86/Debug/SPOJ_FCTRL3.exe
+/Users/macbook/Projects/SPOJ_FCTRL3/SPOJ_FCTRL3/obj/x86/Debug/SPOJ_FCTRL3.pdb

@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{9510C1BC-FA54-4BFD-803E-FD43D1C3AC4A}|Default">
+  <MonoDevelop.Ide.ItemProperties.SPOJ__FCTRL3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SPOJ_FCTRL3/Program.cs">
+    <Files>
+      <File FileName="SPOJ_FCTRL3/Program.cs" Line="29" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
